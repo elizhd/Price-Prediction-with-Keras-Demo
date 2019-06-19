@@ -1,0 +1,3 @@
+*.csv linguist-language=ipynb
+*.sql linguist-language=ipynb
+*.html linguist-language=ipynb
