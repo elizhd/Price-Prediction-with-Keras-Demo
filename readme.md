@@ -8,6 +8,8 @@
 4. 数据展示 网页部分，使用了bootstrap前端框架，后端使用flask框架和pyechart库进行数据图表的展现。
 
 ## 界面
-1. ![表单](https://github.com/ErGouBigDevil/Price-Prediction-with-Keras-Demo/blob/master/img/index.jpg)
-2. ![预测](https://github.com/ErGouBigDevil/Price-Prediction-with-Keras-Demo/blob/master/img/prediction.jpg)
+1. 表单
+    ![表单](https://github.com/ErGouBigDevil/Price-Prediction-with-Keras-Demo/blob/master/img/index.jpg)
+2. 预测界面
+    ![预测](https://github.com/ErGouBigDevil/Price-Prediction-with-Keras-Demo/blob/master/img/prediction.jpg)
 
